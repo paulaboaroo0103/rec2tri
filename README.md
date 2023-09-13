@@ -1,6 +1,12 @@
-# rec2tri
+# Índice
 
-REPOSITÓRIO PARAFAZER O ARQUIVAMENTO DE PRODUTOS
+[Projeto - Recuperação do 2tri escrita do README]
+[Descrição]
+[Funcionalidades]
+[Tecnologias utilizadas]
+[Fontes consuoltadas]
+[Autores]
+
 
 A descrição do meu projeto:
  Foi um projeto feito em recuperação, baseado em um vídeo ,usando estrutusras feito dentro da sala de aula:
