@@ -1,4 +1,12 @@
-# rec2tri
+# Índice
+
+[Projeto - Recuperação do 2TRI, Modificando para o trabalho do 3TRI escrita do README]  
+[Descrição]  
+[Funcionalidades]  
+[Tecnologias utilizadas]  
+[Fontes consultadas]  
+[Autores]    
+
 
 REPOSITÓRIO PARAFAZER O ARQUIVAMENTO DE PRODUTOS
 
