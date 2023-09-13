@@ -1,11 +1,11 @@
 # Índice
 
-[Projeto - Recuperação do 2tri escrita do README]
-[Descrição]
-[Funcionalidades]
-[Tecnologias utilizadas]
-[Fontes consuoltadas]
-[Autores]
+[Projeto - Recuperação do 2tri escrita do README]  
+[Descrição]  
+[Funcionalidades]  
+[Tecnologias utilizadas]  
+[Fontes consuoltadas]  
+[Autores]  
 
 
 A descrição do meu projeto:
