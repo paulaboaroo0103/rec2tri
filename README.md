@@ -1,5 +1,4 @@
 # Índice
-<<<<<<< HEAD
 
 [Projeto - Recuperação do 2TRI - Modificando para o trabalho do 3TRI escrita do README]  
 [Descrição](#descrição) 
@@ -10,16 +9,6 @@
 
 
 ## 📝 Descrição
-=======
-
-[Projeto - Recuperação do 2tri escrita do README]  
-[Descrição]  
-[Funcionalidades]  
-[Tecnologias utilizadas]  
-[Fontes consuoltadas]  
-[Autores]  
-
->>>>>>> 7b890887ccbcf74b47fc17b99f730944b001a609
 
 A descrição do meu projeto:
  Foi um projeto feito em recuperação, baseado em um vídeo ,usando estruturas feito dentro da sala de aula:
