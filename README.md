@@ -1,11 +1,12 @@
 # Índice
 
-[Projeto - Recuperação do 2TRI - Modificando para o trabalho do 3TRI escrita do README]  
+(Projeto - Recuperação do 2TRI - Modificando para o trabalho do 3TRI escrita do README)
 [Descrição](#descrição) 
 [Funcionalidades](#funcionalidades)
 [Tecnologias utilizadas](#tecnologias-utilizadas)  
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores) 
+
 
 
 ## 📝 Descrição
